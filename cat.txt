@@ -1,1 +1,2 @@
-this is some casual fun and unserious coding
+this is some serious coding 
+learning about merge conflicts
