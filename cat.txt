@@ -1,3 +1,4 @@
 this is some serious coding 
 learning about merge conflicts
 we will see what they look like in real time
+it isn't so hard
