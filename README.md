@@ -1,3 +1,3 @@
 hi there cuny tech prep
-hope you are learning a lot about git# cutecat
+hope you are learning a lot about git
 # cutecat
